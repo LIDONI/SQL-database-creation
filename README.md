@@ -32,7 +32,7 @@ Requêtes SQL permettant :
 🛠️ Technologies Utilisées
 
 SQL (création de bases, requêtes analytiques)
-SGBD : MySQL / PostgreSQL
+SGBD : MySQL avec VSCODE
 Data Cleaning & Normalisation
 
 🚀 Résultats et Insights
