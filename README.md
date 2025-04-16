@@ -24,11 +24,11 @@ Vente : Stocke les transactions immobilières
 **3️-Analyse du Marché Immobilier via SQL**
 
 Requêtes SQL permettant :
-✅ Nombre total d’appartements vendus sur une période donnée
-✅ Classement des régions par nombre de ventes
-✅ Proportion des ventes par type de bien
-✅ Classement des départements par prix au m²
-✅ Évolution du marché immobilier
+Nombre total d’appartements vendus sur une période donnée
+- Classement des régions par nombre de ventes
+- Proportion des ventes par type de bien
+- Classement des départements par prix au m²
+- Évolution du marché immobilier
 
 **Technologies Utilisées**
 
